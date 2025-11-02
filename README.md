@@ -152,7 +152,8 @@ The report uncovers key **patterns and vulnerabilities** to support proactive th
 - **Power Query & DAX** – Data cleaning and modeling  
 - **Visualization Types:** KPI Cards, Heatmaps, Treemaps, Clustered Bar Charts, and Line Trends  
 
----
+<img width="682" height="378" alt="Image" src="https://github.com/user-attachments/assets/0e397311-84a6-4488-bffb-94448dfe8870" />
+<img width="743" height="416" alt="Image" src="https://github.com/user-attachments/assets/1166961f-5e21-4777-b0ed-c4294579cbf0" />
 
 ## 📂 Dashboard Features
 - 📈 Year-wise analysis (2015–2024)  
