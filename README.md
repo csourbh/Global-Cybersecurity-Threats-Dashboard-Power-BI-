@@ -4,7 +4,7 @@
 This Power BI dashboard visualizes and analyzes **global cybersecurity incidents (2015–2024)**, focusing on attack types, financial losses, affected users, and industry-level impacts.  
 The report uncovers key **patterns and vulnerabilities** to support proactive threat management, policy planning, and cyber defense strategies.
 
----
+<img width="682" height="390" alt="Image" src="https://github.com/user-attachments/assets/f792b607-2097-4d5f-9941-62a8b04a7c1c" />
 
 ## 📊 Source of Data
 **Dataset:** [Global Cybersecurity Threats (Kaggle)](https://www.kaggle.com/datasets)  
